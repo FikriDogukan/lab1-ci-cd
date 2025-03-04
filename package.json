@@ -1,0 +1,21 @@
+{
+  "name": "lab1-ci-cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://FikriDogukan@github.com/FikriDogukan/lab1-ci-cd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/FikriDogukan/lab1-ci-cd/issues"
+  },
+  "homepage": "https://github.com/FikriDogukan/lab1-ci-cd#readme"
+}
